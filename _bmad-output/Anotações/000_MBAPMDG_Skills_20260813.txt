@@ -1,0 +1,90 @@
+Criar um anúncio persuasivo, escrito em português que é falado e escrito no Brasil, com apoio de IA para Meta Ads, a partir da persona e do produto HubInovaIA e com a imagem da Adriana Müller que esta no escritório com um notebook, divulgando o Produto HubInovaIA. A HubInovaIA é um site pessoal de portfólio de impacto (Aprendi · Ensinei · Entreguei) com CTA de mentoria; roadmap de virar plataforma multiusuário na Fase 3. Nada deve ser escrito em Inglês. Nada deve ser falado em Inglês.
+A imagem tem que apresentar três textos curtos (título, texto principal e CTA) escritos na lingua falada e escrita no Brasil que é o Protuguês, e os gatilhos mentais que você escolheu, com o motivo da escolha. O anúncio é para pessoas que são brasileiras. A personagem Adriana Müller é brasileira e fala português que falam no Brasil. Os descritivos do anúncio devem ser escritos em português. Nada deve ser escrito em Inglês. Nada deve ser falado em Inglês.
+
+
+
+========================================================================
+------------------------------------------------------------------------
+************************************************************************
+
+14 disciplinas de conteúdo (mba-ai-for-product-management, mba-product-vision-intelligence, mba-strategic-business-management, mba-product-research-customer-experience, mba-product-strategy-lean-inception, mba-devops-sre, mba-scaling-agile-frameworks, mba-dev-foundation-nocode-lowcode, mba-product-ops-foundation, mba-product-ops-tools, mba-metrics-product-productops, mba-change-management, mba-product-marketing, mba-business-growth) — cada uma aponta direto para a pasta correspondente em Aulas/ no Drive.
+
+
+========================================================================
+------------------------------------------------------------------------
+************************************************************************
+14 disciplinas de conteúdo 
+
+mba-ai-for-product-management _BMAD_ OK_DRIVE
+
+mba-product-vision-intelligence _BMAD_ OK_DRIVE
+
+mba-strategic-business-management _BMAD_ OK_DRIVE
+
+mba-product-research-customer-experience _BMAD_ OK_DRIVE
+
+mba-product-strategy-lean-inception _BMAD_ OK_DRIVE
+
+mba-devops-sre, mba-scaling-agile-frameworks _BMAD_ OK_DRIVE
+
+mba-dev-foundation-nocode-lowcode _BMAD_ OK_DRIVE
+
+mba-product-ops-foundation _BMAD_ OK_DRIVE
+
+mba-product-ops-tools _BMAD_ OK_DRIVE
+
+mba-metrics-product-productops  _BMAD_ OK_DRIVE
+
+mba-change-management  _BMAD_ OK_DRIVE
+
+mba-product-marketing   _BMAD_ OK_DRIVE
+
+mba-business-growth   _BMAD_ OK_DRIVE
+
+cada uma aponta direto para a pasta correspondente em Aulas/ no Drive.
+
+========================================================================
+------------------------------------------------------------------------
+************************************************************************
+
+
+Neste BMAD eu quero invocar as Skills ao mesmo tempo, eu quero criar um produto usando o BMAD e quero que o BMAD seja capaz de invocar as Skills das seguintes Disciplinas que estão nas pastas  "2025", "2026" e estão localizadas no seguinte endereço: "G:\Meu Drive\PESSOAL\005_Certificados\INSI" .  O que fazer em relação a configuração das Skills para que isso seja possível?
+
+========================================================================
+------------------------------------------------------------------------
+************************************************************************
+
+Neste BMAD eu quero invocar as Skills ao mesmo tempo, eu quero criar um produto usando o BMAD e quero que o BMAD seja capaz de invocar as Skills das seguintes Disciplinas que estão na pasta  "001_MóduloExecutivo" e estão localizadas no seguinte endereço: "G:\Meu Drive\PESSOAL\005_Certificados\MBA_PM_PO_DG\Aulas\001_MóduloExecutivo" .  O que fazer em relação a configuração das Skills para que isso seja possível?
+
+========================================================================
+------------------------------------------------------------------------
+************************************************************************
+
+
+
+========================================================================
+------------------------------------------------------------------------
+************************************************************************
+
+
+
+========================================================================
+------------------------------------------------------------------------
+************************************************************************
+
+
+
+
+========================================================================
+------------------------------------------------------------------------
+************************************************************************
+
+
+
+
+
+
+
+
+
+
