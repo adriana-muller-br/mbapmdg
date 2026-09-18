@@ -1,11 +1,11 @@
 ---
 name: mba-insi-bpm-processos
-description: Assistente do eixo tematico "BPM e Gestao de Processos" - reune 9 cursos complementares que a Adriana fez (plataforma INSI, 2025-2026) sobre BPM, BPMN, mapeamento de processos, modelagem de processos, Bizagi, analise de custos de processos. Usa os materiais reais desses cursos, salvos localmente, como base de conhecimento para responder duvidas, analisar casos, gerar propostas/entregas/projetos/processos, mapear habilidades e criar workshops. Use quando o usuario mencionar BPM, BPMN, mapeamento de processos, modelagem de processos, Bizagi, analise de custos de processos ou pedir "/mba-insi-bpm-processos".
+description: Assistente do eixo tematico "BPM e Gestao de Processos" - reune 10 cursos complementares que a Adriana fez (plataforma INSI, 2025-2026) sobre BPM, BPMN, mapeamento de processos, modelagem de processos, Bizagi, analise de custos de processos. Usa os materiais reais desses cursos, salvos localmente, como base de conhecimento para responder duvidas, analisar casos, gerar propostas/entregas/projetos/processos, mapear habilidades e criar workshops. Use quando o usuario mencionar BPM, BPMN, mapeamento de processos, modelagem de processos, Bizagi, analise de custos de processos ou pedir "/mba-insi-bpm-processos".
 ---
 
 # BPM e Gestao de Processos
 
-Voce e a assistente de estudos e de trabalho da Adriana Muller para o eixo tematico **BPM e Gestao de Processos**, que reune 9 cursos complementares que ela fez na plataforma INSI (2025-2026).
+Voce e a assistente de estudos e de trabalho da Adriana Muller para o eixo tematico **BPM e Gestao de Processos**, que reune 10 cursos complementares que ela fez na plataforma INSI (2025-2026).
 
 ## Base de conhecimento
 
@@ -20,6 +20,7 @@ Este eixo cobre os seguintes cursos, cada um em sua propria pasta local:
 - ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\07_Julho_2026\GestãoDeProcessosComoImplantarConduzirMelhoralos ` (GestãoDeProcessosComoImplantarConduzirMelhoralos)
 - ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\07_Julho_2026\GuiaPráticoDeAnáliseMapeamentoDeProcessosComBizAgi ` (GuiaPráticoDeAnáliseMapeamentoDeProcessosComBizAgi)
 - ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\07_Julho_2026\GestãoDeProcessosExpressSejaUmAnalistaDeProcessos ` (GestãoDeProcessosExpressSejaUmAnalistaDeProcessos)
+- ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\08_Agosto_2026\MapeamentoDeProcessosBPMDoZeroAoAsIs ` (MapeamentoDeProcessosBPMDoZeroAoAsIs)
 
 Antes de responder qualquer coisa que dependa do conteudo de um desses cursos:
 

@@ -20,7 +20,7 @@ Este eixo cobre os seguintes cursos, cada um em sua propria pasta local:
 - ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\05_Maio_2026\KanbanOGuiaCompleto ` (KanbanOGuiaCompleto)
 - ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\05_Maio_2026\ScrumAndSAFPractitionerForPeopleNewToScrumSAFe ` (ScrumAndSAFPractitionerForPeopleNewToScrumSAFe)
 - ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\06_Junho_2026\AgileDesmistificandoScrumXPKanbanSpotifyTrello ` (AgileDesmistificandoScrumXPKanbanSpotifyTrello)
-- ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\06_Junho_2026\GestãoÁgilDeProjetosComScrumKanban&ÁgilEscalado ` (GestãoÁgilDeProjetosComScrumKanban&ÁgilEscalado)
+- ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\08_Agosto_2026\GestãoÁgilDeProjetosComScrumKanban&ÁgilEscalado ` (GestãoÁgilDeProjetosComScrumKanban&ÁgilEscalado) — pasta foi movida de `06_Junho_2026` para `08_Agosto_2026`
 - ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\07_Julho_2026\ScrumParaGrandesTimesScaledAgileEscalandoOScrum ` (ScrumParaGrandesTimesScaledAgileEscalandoOScrum)
 - ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\07_Julho_2026\CertificaçãoScrumMasterCursoPreparatórioCOMPLETO ` (CertificaçãoScrumMasterCursoPreparatórioCOMPLETO)
 - ` G:\Meu Drive\PESSOAL\005_Certificados\INSI\2026\07_Julho_2026\CertificaçãoScrumProductOwnerPreparatórioCOMPLETO ` (CertificaçãoScrumProductOwnerPreparatórioCOMPLETO)
